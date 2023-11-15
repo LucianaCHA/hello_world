@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class Main {
-
+	//link repo https://github.com/LucianaCHA/hello_world/tree/clase_3/HelloWorld/src
 	//EJERCICIO 1
 	//Implemente un método que reciba como parámetro una lista de strings y devuelva una nueva
 	//lista con los strings en mayúscula
