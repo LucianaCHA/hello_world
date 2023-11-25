@@ -1,4 +1,4 @@
-package models;
+package com.clases.clase6.model;
 import jakarta.persistence.*;
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package models;
+package com.clases.clase6.model;
 import java.time.LocalDate;
 import java.util.List;
 
